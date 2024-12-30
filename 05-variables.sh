@@ -10,6 +10,6 @@ echo "Please enter password::"
 
 read  PASSWORD
 
-echo "password entered"
+echo "password entered":$PASSWORD
 
 
