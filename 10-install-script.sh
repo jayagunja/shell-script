@@ -6,3 +6,4 @@ USERID=$(id -u)
     echo "Error:: you must have sudo access to execute this script"
 fi   
 
+dnf install mysqll -y
