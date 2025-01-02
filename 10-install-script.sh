@@ -15,7 +15,6 @@ then
     exit 1
 else
     echo "installing mySQL... Success"
-
 fi
 
 
@@ -27,5 +26,4 @@ then
     exit 1
 else
     echo "installing git... Success"
-
 fi
