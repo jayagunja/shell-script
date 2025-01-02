@@ -1,3 +1,5 @@
+#!/bin/bash
+
 Movies=("RRR" "Bahubali" "Saho")
 
 echo "First movie :${Movies[0]}"
