@@ -56,7 +56,7 @@ fi
         do
             echo "Deleting eachfile: $eachfile"
             rm -rf $eachfile
-        done <<< $FILES_TO_DELETE
+        done <<< $FILES
     else
         echo -e "$R Error :: Failed to create ZIP file"$N
         exit 1
