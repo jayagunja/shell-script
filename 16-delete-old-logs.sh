@@ -38,7 +38,7 @@ echo "Script started executing at: $TIMESTAMP" &>>$LOG_FILE_NAME
  do
     echo "Deletingfilename: $file"
     rm -rf $file
- done <<< FILES_TO_DELETE
+ done <<< $FILES_TO_DELETE
 
 
 
