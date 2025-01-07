@@ -2,7 +2,7 @@
 
 MSG="SCRIPT-2"
 
-echo "from: $MSG"
+echo "from s2 : $MSG"
 
 sh ./20-script-1.sh
  

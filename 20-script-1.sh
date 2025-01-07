@@ -2,4 +2,4 @@
 
 MSG="SCRIPT-1"
 
-echo "from: $MSG"
+echo "from s1: $MSG"
