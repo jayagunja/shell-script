@@ -5,6 +5,7 @@ MSG="SCRIPT-2"
 echo "from s2 : $MSG"
 
 source ./20-script-1.sh
+echo "A : $A"
 
 
 #echo "from s2: $MSG2" 
