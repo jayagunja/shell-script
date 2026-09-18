@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Argument variables $1 ,$2
 Person1=$1
 Person2=$2
 
